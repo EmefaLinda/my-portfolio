@@ -1,7 +1,7 @@
 nav{
 
 display:flex;
-background-color:rgb(228, 42, 197)
+background-color:rgb(228, 42, 197);
 justify-content: space-around;
 align-items: center;
 min-height: 8vh;
